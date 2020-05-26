@@ -5,9 +5,6 @@
 
 .page{
   height: 100vh;
-  /* background-image: url(https://images.pexels.com/photos/783243/pexels-photo-783243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
-  /* background-size: cover; */
-  /* background-position: right; */
   background-color: #512da8;
   display: flex;
   align-items: center;
@@ -40,7 +37,6 @@
   width: 150px;
   height: 150px;
   object-fit: cover;
-  /* border-radius: 5px; */
 }
 #input[type="file"] {
 	display: none;
