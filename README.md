@@ -5,3 +5,5 @@
 To use this: run `npm install` and `npm start` inside this repo
 
 ## This project is associated with my youtube channel totorial: 
+
+### Checkout its demo [here](https://codesandbox.io/s/rahul-ahire-react-image-preview-itrlv "CodeSandBox.io Demo")
